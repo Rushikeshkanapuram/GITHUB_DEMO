@@ -1,4 +1,4 @@
 # GITHUB_DEMO
 This is a readme file for github_demo repository
 <br>
---Author Rushikesh
+--Author Rushikesh (Amrita University)
